@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ConsumirApiRestful</string>
+    <string name="consumir_api_restful">Consumir Api Restful</string>
+    <string name="btnconsumir">Consumir Web Service</string>
+</resources>
